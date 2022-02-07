@@ -4,12 +4,12 @@ package com.leetcode.algorithms.easy;
 public class BuildArrayFromPermutation {
 
     public static int[] buildArray(int[] nums) {
-        int[] ans = new int[nums.length];
+        int[] output = new int[nums.length];
         for (int i = 0; i < nums.length; i++) {
             int j = nums[i];
-            ans[i] = nums[j];
+            output[i] = nums[j];
         }
-        return ans;
+        return output;
     }
 
 }
