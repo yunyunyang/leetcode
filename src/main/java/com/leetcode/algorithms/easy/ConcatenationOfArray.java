@@ -1,9 +1,5 @@
 package com.leetcode.algorithms.easy;
 
-import com.sun.tools.jconsole.JConsoleContext;
-
-import java.util.Arrays;
-
 // 1929. Concatenation of Array
 public class ConcatenationOfArray {
 

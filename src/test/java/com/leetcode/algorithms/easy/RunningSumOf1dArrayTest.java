@@ -27,4 +27,5 @@ public class RunningSumOf1dArrayTest {
         int[] output = { 3, 4, 6, 16, 17 };
         assertArrayEquals(RunningSumOf1dArray.runningSum(nums), output);
     }
+
 }
