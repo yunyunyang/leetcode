@@ -20,5 +20,4 @@ public class ConcatenationOfArrayTest {
         int[] output = { 1, 3, 2, 1, 1, 3, 2, 1 };
         assertArrayEquals(ConcatenationOfArray.getConcatenation(nums), output);
     }
-
 }

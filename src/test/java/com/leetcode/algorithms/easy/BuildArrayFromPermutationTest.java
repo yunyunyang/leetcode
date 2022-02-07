@@ -20,5 +20,4 @@ public class BuildArrayFromPermutationTest {
         int[] output = { 4, 5, 0, 1, 2, 3 };
         assertArrayEquals(BuildArrayFromPermutation.buildArray(nums), output);
     }
-
 }
