@@ -2,9 +2,9 @@ package com.leetcode.algorithms.easy;
 
 import org.junit.jupiter.api.Test;
 
-// 1480. Running Sum of 1d Array
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
+// 1480. Running Sum of 1d Array
 public class RunningSumOf1dArrayTest {
 
     @Test

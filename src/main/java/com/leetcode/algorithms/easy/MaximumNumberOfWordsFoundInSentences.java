@@ -1,7 +1,6 @@
 package com.leetcode.algorithms.easy;
 
-import java.util.Arrays;
-
+//2114. Maximum Number of Words Found in Sentences
 public class MaximumNumberOfWordsFoundInSentences {
 
     public static int mostWordsFound(String[] sentences) {

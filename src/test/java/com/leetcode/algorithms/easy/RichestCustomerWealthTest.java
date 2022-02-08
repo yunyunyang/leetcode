@@ -2,9 +2,9 @@ package com.leetcode.algorithms.easy;
 
 import org.junit.jupiter.api.Test;
 
-// 1672. Richest Customer Wealth
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+// 1672. Richest Customer Wealth
 public class RichestCustomerWealthTest {
 
     @Test
