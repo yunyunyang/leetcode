@@ -17,13 +17,4 @@ public class ParkingSystem {
         }
     }
 
-    public static void main(String[] args) {
-        ParkingSystem obj = new ParkingSystem(1, 1, 0);
-        int[] carType = new int[]{ 1, 2, 3, 1 };
-        for (int i = 0; i < carType.length; i++) {
-            boolean param_1 = obj.addCar(carType[i]);
-            System.out.println(param_1);
-        }
-    }
-
 }
