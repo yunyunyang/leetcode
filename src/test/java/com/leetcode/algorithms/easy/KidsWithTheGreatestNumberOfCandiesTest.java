@@ -5,9 +5,9 @@ import org.junit.jupiter.api.Test;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-// 1431. Kids With the Greatest Number of Candies
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+// 1431. Kids With the Greatest Number of Candies
 public class KidsWithTheGreatestNumberOfCandiesTest {
 
     @Test
